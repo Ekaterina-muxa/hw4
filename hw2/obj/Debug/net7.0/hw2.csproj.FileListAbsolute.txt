@@ -1,0 +1,15 @@
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.csproj.AssemblyReference.cache
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.AssemblyInfoInputs.cache
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.AssemblyInfo.cs
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.csproj.CoreCompileInputs.cache
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\bin\Debug\net7.0\hw2.exe
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\bin\Debug\net7.0\hw2.deps.json
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\bin\Debug\net7.0\hw2.runtimeconfig.json
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\bin\Debug\net7.0\hw2.dll
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\bin\Debug\net7.0\hw2.pdb
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.dll
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\refint\hw2.dll
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.pdb
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\hw2.genruntimeconfig.cache
+C:\Users\katux\Desktop\GB обучение\homework2 С#\hw2\obj\Debug\net7.0\ref\hw2.dll
